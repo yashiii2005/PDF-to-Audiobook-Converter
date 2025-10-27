@@ -33,12 +33,3 @@ This project demonstrates the integration of **text extraction**, **speech synth
 | Audio Playback | `playsound` | Play MP3 audio |
 | PDF Generation | `reportlab` | Create sample PDFs |
 
----
-
-## 📸 Screenshots
-
-| Main Interface |
-|----------------|
-| ![App Screenshot](C:\Users\LENOVO\OneDrive\Desktop\miranda\b.png) |
-git clone https://github.com/<your-username>/pdf-to-audiobook-converter.git
-cd pdf-to-audiobook-converter
